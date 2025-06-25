@@ -100,10 +100,10 @@ const LoginPage = () => {
           <div className="text-center lg:text-left">
             <div className="flex items-center justify-center lg:justify-start gap-3 mb-6">
               <GraduationCap className="h-12 w-12 text-indigo-600" />
-              <h1 className="text-4xl font-bold text-gray-900">IAPrender</h1>
+              <h1 className="text-4xl font-bold text-gray-900">IAprender</h1>
             </div>
             <p className="text-xl text-gray-600 mb-8">
-              Transforme sua educação com jogos interativos e assistente virtual com IA
+              Aprendizado inteligente, cuidado emocional real.
             </p>
           </div>
 
